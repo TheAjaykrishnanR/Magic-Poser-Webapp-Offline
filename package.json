@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+},
+
+"pkg": {
+  
+  "assets": "public/**/*",
+  "targets": ["node18-win-x64"]
+},
+"bin":"server.js",
+"name":"server"
+}
+
+
